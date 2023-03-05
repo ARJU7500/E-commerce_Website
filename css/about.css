@@ -1,0 +1,100 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+/* section1 start */
+#sectionab1
+{
+background-image: url('../img/banner.png');
+height: 50vh;
+background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#sectionab1 .text
+{
+   color: white;
+   text-align: center;
+}
+
+/* sectionab2 start */
+#sectionab2
+{
+    margin: 30px 0px;
+}
+#sectionab2 img
+{
+    width: 100%;
+    border-radius: 15px;
+}
+#sectionab2 .box1
+{
+    margin-top: 50px;
+}
+
+/* section3 start */
+#sectionab3
+{
+    margin: 50px 0px;
+}
+#sectionab3 img
+{
+    border-radius: 15px;
+    padding: 0px 5px;
+    width: 100%;
+    height: 50vh;
+}
+#sectionab3 .boxab3
+{
+    position: absolute;
+    margin-top: -190px ;
+    padding:0px 40px ;
+    line-height: 5px;
+}
+#sectionab3 .boxab3 h5,h1
+{
+    color:white;
+}
+#sectionab3 .boxab3 p
+{
+    color: white; 
+    margin-bottom: 30px; 
+}
+#sectionab3 .boxab3 a
+{
+    text-decoration: none;
+    padding: 8px 20px;
+    border: 1px solid white;
+    color: white;
+}
+#sectionab3 .boxab3 a:hover
+{
+   
+    border-radius: 10px;
+}
+
+/* section4 start */
+#sectionab4 
+{
+    margin: 50px;
+}
+#sectionab4 img
+{
+    width: 100%;
+    height: 30vh;
+    border-radius: 15px;
+}
+#sectionab4 .boxab4
+{
+position: absolute;
+margin-top: -110px;
+padding: 0px 15px;
+}
+#sectionab4 .boxab4 h5
+{
+    color: white;
+}
+

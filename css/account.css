@@ -1,0 +1,133 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.header #sectiona1 
+{
+    padding: 100px 0px;
+}
+.header #sectiona1 img
+{
+    width: 100%;
+}
+.header #sectiona1 .log
+{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.808);
+    /* box-shadow: 1px 2px 10px 10px rgba(255, 255, 255, 0.616); */
+    border-radius: 10px;
+    width: 350px;
+    height: 400px;
+    margin-left: 200px;
+    padding: 20px 0px;
+}
+.header #sectiona1 .log h1
+{
+    margin-bottom: 20px;
+}
+.header #sectiona1 .log input
+{
+    padding: 5px 10px;
+    margin-top: 10px;
+    width: 80%;
+    outline: none;
+}
+.header #sectiona1 .log button
+{
+    text-decoration: none;
+    margin-top: 15px;
+    outline: none;
+    background-color: transparent;
+    color: #ff3300;
+    border: 1px solid  #ff3300;
+    padding: 5px 70px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+.header #sectiona1 .log button:hover
+{
+    background-color: #ff3300;
+    color: white;
+}
+.header #sectiona1 .log a
+{
+    text-decoration: none;
+    color: #ff3300;
+}
+.header #sectiona1 .log a:hover
+{
+    text-decoration: underline;
+}
+.header #sectiona1 .log p
+{
+    margin-top: 10px;
+}
+
+
+#popup
+{
+    display: none;
+     position: absolute;
+     top: 30%;
+     left: 30%;
+    
+
+}
+#popup .res #icn
+{
+    position: absolute;
+    right: 5px;
+    top: 0px;
+}
+#popup .res
+{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.808);
+    border-radius: 10px;
+    width: 350px;
+    height: 400px;
+    padding: 20px 0px;
+}
+#popup .res h1
+{
+    margin-bottom: 70px;
+}
+ #popup .res input
+{
+    padding: 5px 10px;
+    margin-top: 10px;
+    width: 80%;
+    outline: none;
+}
+ #popup .res button
+{
+    text-decoration: none;
+    margin-top: 20px;
+    outline: none;
+    background-color: transparent;
+    color: #ff3300;
+    border: 1px solid  #ff3300;
+    padding: 5px 70px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+#popup .res button:hover
+{
+    background-color: #ff3300;
+    color: white;
+}
+#popup .res a
+{
+    text-decoration: none;
+    color: #ff3300;
+    margin-top: 20px;
+}
+#popup .res a:hover
+{
+    text-decoration: underline;
+}
+ #popup .res p
+{
+    margin-top: 10px;
+}

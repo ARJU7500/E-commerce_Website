@@ -1,0 +1,374 @@
+db.product.insert([
+    {
+        "product_id":1,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/kn22m4w0/t-shirt/d/g/b/m-sl0020p-maroon-slowloris-original-imagft45f6dbjk8h.jpeg?q=50",
+        "title":"Printed Men Polo Neck Black T-Shir",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 299,
+        "product_imag":
+        [
+            "https://rukminim1.flixcart.com/image/800/960/kn22m4w0/t-shirt/d/g/b/m-sl0020p-maroon-slowloris-original-imagft45f6dbjk8h.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kn0n6a80/t-shirt/j/x/y/xl-sl0020p-maroon-slowloris-original-imagfs5mvrkhaz8h.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kn22m4w0/t-shirt/g/z/v/m-sl0020p-maroon-slowloris-original-imagft454yfrzs39.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kn22m4w0/t-shirt/v/u/5/m-sl0020p-maroon-slowloris-original-imagft45hzchgt9h.jpeg?q=50"
+        ]
+    },
+    {
+        "product_id":2,
+        "product_thumb": "https://rukminim1.flixcart.com/image/495/594/kfeamq80-0/shoe/i/z/i/combo-o-1660-1657-6-earton-multicolor-original-imafvv99kg24rxgy.jpeg?q=50",
+        "title":"HRX Sports Shoose",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 1499,
+        "product_imag":
+        [
+            "https://rukminim1.flixcart.com/image/800/960/kfeamq80-0/shoe/i/z/i/combo-o-1660-1657-6-earton-multicolor-original-imafvv99kg24rxgy.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kfcv6vk0-0/shoe/t/q/n/combo-o-1657-1058-9-earton-multicolor-original-imafvu4fzc7fczgv.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kbjox3k0/shoe/u/i/k/running-shoes-for-men-grey-37-badlav-grey-original-imafsveabuhg3tdr.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kfcv6vk0-0/shoe/r/2/1/combo-o-1657-1058-9-earton-multicolor-original-imafvu4fw2wyzjva.jpeg?q=50"
+
+        ]
+    },
+    {
+        "products_id":3,
+        "product_thumb": "https://rukminim1.flixcart.com/image/495/594/kt4ozgw0/track-pant/y/s/j/xl-black0xl-sonizeed-original-imag6gw2bjfjsvjx.jpeg?q=50",
+        "title":"Solid Men Black Track Pants",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 278,
+        "product_imag":
+        [
+            "https://rukminim1.flixcart.com/image/800/960/kt4ozgw0/track-pant/y/s/j/xl-black0xl-sonizeed-original-imag6gw2bjfjsvjx.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/ksc46fk0/track-pant/y/n/v/28-black-m-yoiuiui-original-imag5xh2er3rcnhz.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kt4ozgw0/track-pant/y/0/6/xl-black0xl-sonizeed-original-imag6gw2tgahydcp.jpeg?q=50"
+        ]
+     },
+    {
+        "products_id":4,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/kndi4y80/sock/p/4/7/free-5-swg-365-51-swagr-original-imag22zmmyffb6sr.jpeg?q=50",
+        "title": "Men & Women Solid Ankle Length",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 6999,
+        "product_imag":
+        [
+            "https://rukminim1.flixcart.com/image/800/960/kndi4y80/sock/p/4/7/free-5-swg-365-51-swagr-original-imag22zmmyffb6sr.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kmns7m80/sock/b/z/z/free-365-m-swagr-original-imagfgdpybytypn9.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/klgx0280/sari/2/c/o/free-461-navya-fashion-unstitched-original-imagyhfzcbegxpgg.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":5,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/k7z3afk0/watch/t/c/x/lcs-8188-lois-caron-original-imafq3k9ztzdkyhe.jpeg?q=50",
+        "title": "LCS-8188 BLUE DIAL AND SILVER STRAP DAY & DATE FUNCTIONING WATCH FOR BOYS Analog Watch - For Men",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 699,
+        "product_imag":
+        [
+          "https://rukminim1.flixcart.com/image/800/960/k7z3afk0/watch/t/c/x/lcs-8188-lois-caron-original-imafq3k9ztzdkyhe.jpeg?q=50",
+          "https://rukminim1.flixcart.com/image/800/960/k48rwcw0/watch/t/c/x/lcs-8188-lois-caron-original-imafn749fyzsaumc.jpeg?q=50",
+          "https://rukminim1.flixcart.com/image/800/960/k48rwcw0/watch/t/c/x/lcs-8188-lois-caron-original-imafn749wtx62fjg.jpeg?q=50",
+          "https://rukminim1.flixcart.com/image/800/960/k48rwcw0/watch/t/c/x/lcs-8188-lois-caron-original-imafn749g7kezax7.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":6,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/kmccosw0/shirt/t/l/2/xl-men-regular-super-slim-fit-striped-casual-shirt-icome-original-imagf9q2epye5kks.jpeg?q=50",
+        "title": "Men Regular Fit Striped Casual Shirt",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 699,
+        "product_imag":
+        [
+         "https://rukminim1.flixcart.com/image/800/960/kmccosw0/shirt/t/l/2/xl-men-regular-super-slim-fit-striped-casual-shirt-icome-original-imagf9q2epye5kks.jpeg?q=50",
+         "https://rukminim1.flixcart.com/image/800/960/kmccosw0/shirt/n/k/s/xl-men-regular-super-slim-fit-striped-casual-shirt-icome-original-imagf9q2sxzf7fvp.jpeg?q=50",
+         "https://rukminim1.flixcart.com/image/800/960/kmccosw0/shirt/6/2/d/xl-men-regular-super-slim-fit-striped-casual-shirt-icome-original-imagf9q2eqf2jba8.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":7,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/ktyp8cw0/computer/h/a/s/na-thin-and-light-laptop-nokia-original-imag77fgvdj4fv8e.jpeg?q=70",
+        "title": "Nokia PureBook S14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) NKi511TL85S Thin and Light Laptop  (14 inch, Black, 1.4 KG)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 11699,
+        "product_imag":
+        [
+         "https://rukminim1.flixcart.com/image/416/416/ktyp8cw0/computer/h/a/s/na-thin-and-light-laptop-nokia-original-imag77fgvdj4fv8e.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/416/416/ktyp8cw0/computer/h/o/v/na-thin-and-light-laptop-nokia-original-imag77fgsxun93ne.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/416/416/ku2zjww0/computer/i/4/6/na-thin-and-light-laptop-nokia-original-imag7achzzgpm54h.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/416/416/ku2zjww0/computer/g/d/l/na-thin-and-light-laptop-nokia-original-imag7achen6ngavf.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":8,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/ke8uv0w0-0/shirt/7/c/n/s-sys-4220-21-funday-fashion-original-imafuz6a4kfp3age.jpeg?q=50",
+        "title": "Women Regular Fit Solid Casual Shirt ",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 499,
+        "product_imag":
+        [
+        "https://rukminim1.flixcart.com/image/800/960/ke8uv0w0-0/shirt/7/c/n/s-sys-4220-21-funday-fashion-original-imafuz6a4kfp3age.jpeg?q=50",
+        "https://rukminim1.flixcart.com/image/800/960/ke8uv0w0-0/shirt/d/b/w/s-sys-4220-21-funday-fashion-original-imafuz6asgbarw55.jpeg?q=50",
+        "https://rukminim1.flixcart.com/image/800/960/kdakakw0/shirt/l/k/6/m-sys-4221-funday-fashion-original-imafu8aepkmq7xx6.jpeg?q=50",
+        "https://rukminim1.flixcart.com/image/800/960/kdakakw0/shirt/u/h/c/l-sys-4220-funday-fashion-original-imafu8asacuyj4kx.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":9,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/krwec280/jacket/a/h/i/xl-mnt-7025-montrez-original-imag5hb93udpfs4q.jpeg?q=50",
+        "title":"Full Sleeve Washed Men Casual Jacket",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 199,
+        "product_imag":
+        [
+     "https://rukminim1.flixcart.com/image/800/960/krwec280/jacket/a/h/i/xl-mnt-7025-montrez-original-imag5hb93udpfs4q.jpeg?q=50",
+    "https://rukminim1.flixcart.com/image/800/960/krwec280/jacket/v/j/8/xl-mnt-7025-montrez-original-imag5hb9bzhhgzwu.jpeg?q=50",
+    "https://rukminim1.flixcart.com/image/800/960/krwec280/jacket/j/0/a/xl-mnt-7025-montrez-original-imag5hb99pvs78zz.jpeg?q=50",
+    "https://rukminim1.flixcart.com/image/800/960/krwec280/jacket/b/l/x/xl-mnt-7025-montrez-original-imag5hb9cb6mzbcf.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":10,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/ku5ufm80/jacket/j/0/y/xxl-1-no-mntnw-4023-montrez-original-imag7cp8ggyzn5by.jpeg?q=50",
+        "title": "Full Sleeve Solid Women Denim Jacket",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 499,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/800/960/ku5ufm80/jacket/j/0/y/xxl-1-no-mntnw-4023-montrez-original-imag7cp8ggyzn5by.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/ku5ufm80/jacket/q/s/s/xxl-1-no-mntnw-4023-montrez-original-imag7cp8g73shg9m.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/ku5ufm80/jacket/h/d/k/xxl-1-no-mntnw-4023-montrez-original-imag7cp84raau6zz.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/ku5ufm80/jacket/7/z/h/xxl-1-no-mntnw-4023-montrez-original-imag7cp8jhyzffra.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":11,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/ktx9si80/mobile/d/n/p/narzo-50a-rmx3430-realme-original-imag75kymngzyabx.jpeg?q=70",
+        "title": " realme Narzo 50A (Oxygen Blue, 64 GB)  (4 GB RAM)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 499,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/416/416/ktx9si80/mobile/d/n/p/narzo-50a-rmx3430-realme-original-imag75kymngzyabx.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/ktx9si80/mobile/v/s/i/narzo-50a-rmx3430-realme-original-imag75kyzgwuy6yn.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/ktx9si80/mobile/1/z/h/narzo-50a-rmx3430-realme-original-imag75ky2svymcr5.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/ktx9si80/mobile/n/0/w/narzo-50a-rmx3430-realme-original-imag75kyt6gnts9r.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":12,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/krntoy80/television/t/b/d/a-3200n-adsun-original-imag5ecyt6ystkrv.jpeg?q=70",
+        "title": "Adsun 80 cm (32 inch) HD Ready LED TV  (A-3200N)",
+        "average_rating": 3.2,
+        "rating_text": "Very Good",
+        "mrp": 8499,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/416/416/krntoy80/television/t/b/d/a-3200n-adsun-original-imag5ecyt6ystkrv.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/krntoy80/television/6/f/e/a-3200n-adsun-original-imag5ecydvmw72vb.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/krntoy80/television/d/8/c/a-3200n-adsun-original-imag5ecy73y7n4kc.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/krntoy80/television/7/e/t/a-3200n-adsun-original-imag5ecyx7rmxk5f.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":13,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/kyeqjrk0/fm-radio/d/b/h/evoke-retro-style-radio-with-fm-am-sw-band-bluetooth-usb-sd-card-original-imagan8paekk8cuy.jpeg?q=70",
+        "title": "iGear Evoke Retro style Radio with FM/AM/SW band, Bluetooth/USB/SD Card, Solar charger FM Radio  (Blue)",
+        "average_rating": 4,
+        "rating_text": "Very Good",
+        "mrp": 1899,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/416/416/kyeqjrk0/fm-radio/d/b/h/evoke-retro-style-radio-with-fm-am-sw-band-bluetooth-usb-sd-card-original-imagan8paekk8cuy.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kyeqjrk0/fm-radio/z/o/b/evoke-retro-style-radio-with-fm-am-sw-band-bluetooth-usb-sd-card-original-imagan8pg2pwabdx.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kyeqjrk0/fm-radio/v/a/o/evoke-retro-style-radio-with-fm-am-sw-band-bluetooth-usb-sd-card-original-imagan8p56qs8gy2.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kyeqjrk0/fm-radio/8/p/b/evoke-retro-style-radio-with-fm-am-sw-band-bluetooth-usb-sd-card-original-imagan76dfnzn2fw.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":14,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/ku04o7k0/tablet/y/e/r/za8n0068in-lenovo-original-imag78cevnuyeswy.jpeg?q=70",
+        "title": "Lenovo Tab K10 FHD 3 GB RAM 32 GB ROM 10.3 inches with Wi-Fi Only Tablet",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "mrp": 12499,
+        "product_imag":
+        [
+            "https://rukminim1.flixcart.com/image/416/416/ku04o7k0/tablet/y/e/r/za8n0068in-lenovo-original-imag78cevnuyeswy.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/ku04o7k0/tablet/7/k/y/za8n0068in-lenovo-original-imag78cewh22gfkz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/ku04o7k0/tablet/t/h/h/za8n0068in-lenovo-original-imag78cemzsydkzf.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/ku04o7k0/tablet/b/i/n/za8n0068in-lenovo-original-imag78cecuf94hea.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":15,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/kxrvi4w0/jean/y/y/l/32-maw21elppjn584-metronaut-original-imaga5zbpzzr8fhb.jpeg?q=50",
+        "title": "Slim Men Dark Blue Jeans",
+        "average_rating": 3.2,
+        "rating_text": "Very Good",
+        "mrp": 399,
+        "product_imag":
+        [
+       "https://rukminim1.flixcart.com/image/800/960/kxrvi4w0/jean/y/y/l/32-maw21elppjn584-metronaut-original-imaga5zbpzzr8fhb.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kxrvi4w0/jean/p/1/z/32-maw21elppjn584-metronaut-original-imaga5zb3hr5sxmt.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kxrvi4w0/jean/a/r/9/32-maw21elppjn584-metronaut-original-imaga5zbd6kfjmvg.jpeg?q=50",
+            "https://rukminim1.flixcart.com/image/800/960/kxrvi4w0/jean/y/p/s/32-maw21elppjn584-metronaut-original-imaga5zbb4grzvw2.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":16,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/khuvxjk0/track-pant/v/h/d/xl-mens-track-vebnor-original-imafxs4mnzayj3dx.jpeg?q=50",
+        "title": "Solid Men Black Track Pants",
+        "average_rating": 2.2,
+        "rating_text": "Very Good",
+        "mrp": 399,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/800/960/khuvxjk0/track-pant/v/h/d/xl-mens-track-vebnor-original-imafxs4mnzayj3dx.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/kgiaykw0/track-pant/v/h/d/xl-mens-track-vebnor-original-imafwq56fsgswzwm.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/khuvxjk0/track-pant/v/h/d/l-mens-track-vebnor-original-imafxs4mye4dyvg9.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/khuvxjk0/track-pant/v/h/d/l-mens-track-vebnor-original-imafxs4ma4x9wg3g.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":17,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/kv9urgw0/sweater/u/k/4/s-grind-petrol-rare-rabbit-original-imag87phyzavzu2h.jpeg?q=50",
+        "title": "Colorblock Round Neck Casual Men Multicolor Sweater",
+        "average_rating": 3.3,
+        "rating_text": "Very Good",
+        "mrp": 2499,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/800/960/kv9urgw0/sweater/u/k/4/s-grind-petrol-rare-rabbit-original-imag87phyzavzu2h.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/kv9urgw0/sweater/i/8/h/s-grind-petrol-rare-rabbit-original-imag87phxps624ag.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/kv9urgw0/sweater/7/s/m/s-grind-petrol-rare-rabbit-original-imag87phvggddyt8.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/kv9urgw0/sweater/h/s/2/s-grind-petrol-rare-rabbit-original-imag87ph3mmafrt6.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":18,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/k6b2snk0/wallet-card-wallet/r/h/w/protected-100-genuine-high-quality-mens-crunch-leather-wallet-original-imafzsxt57bzzegu.jpeg?q=50",
+        "title": "Men Tan Genuine Leather RFID Wallet - Regular Size  (8 Card Slots)",
+        "average_rating": 3.9,
+        "rating_text": "Very Good",
+        "mrp": 352,
+        "product_imag":
+        [
+    "https://rukminim1.flixcart.com/image/800/960/k6b2snk0/wallet-card-wallet/r/h/w/protected-100-genuine-high-quality-mens-crunch-leather-wallet-original-imafzsxt57bzzegu.jpeg?q=50",
+    "https://rukminim1.flixcart.com/image/800/960/k6b2snk0/wallet-card-wallet/r/h/w/protected-100-genuine-high-quality-mens-crunch-leather-wallet-original-imafzsxt4zevbxze.jpeg?q=50",
+    "https://rukminim1.flixcart.com/image/800/960/k6b2snk0/wallet-card-wallet/r/h/w/protected-100-genuine-high-quality-mens-crunch-leather-wallet-original-imafzsxt5zndbjqz.jpeg?q=50",
+    "https://rukminim1.flixcart.com/image/800/960/k6b2snk0/wallet-card-wallet/r/h/w/protected-100-genuine-high-quality-mens-crunch-leather-wallet-original-imafzsxtgayzffjb.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":19,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/kwgpz0w0/kit/h/d/7/sf-full-kashmir-willow-cricket-combo-full-size-with-helmet-original-imag94z5bzhhcjvk.jpeg?q=70",
+        "title": "SPOFLY SF FULL KASHMIR WILLOW CRICKET COMBO-FULL SIZE WITH HELMET Cricket Kit",
+        "average_rating": 4.9,
+        "rating_text": "Very Good",
+        "mrp": 3499,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/416/416/kwgpz0w0/kit/h/d/7/sf-full-kashmir-willow-cricket-combo-full-size-with-helmet-original-imag94z5bzhhcjvk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kwgpz0w0/kit/5/z/f/sf-full-kashmir-willow-cricket-combo-full-size-with-helmet-original-imag94z5cznhpzmn.jpeg?q=70",
+"https://rukminim1.flixcart.com/image/416/416/kwgpz0w0/kit/y/n/m/sf-full-kashmir-willow-cricket-combo-full-size-with-helmet-original-imag94z5tqfkgrgz.jpeg?q=70",
+"https://rukminim1.flixcart.com/image/416/416/kwgpz0w0/kit/5/i/m/sf-full-kashmir-willow-cricket-combo-full-size-with-helmet-original-imag94z5sbg2zdqr.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":20,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/kx25ksw0/kit/j/h/f/tummy-trimmer-toning-tube-for-stretching-toning-exercising-original-imag9hgg3a6va98c.jpeg?q=70",
+        "title": "Best-Quality-Hub Tummy Trimmer Toning Tube for Stretching Toning Exercising Workout Fitness Equipment at Home Gym Kit Home Gym Kit Home Gym Kit",
+        "average_rating": 4.7,
+        "rating_text": "Very Good",
+        "mrp": 229,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/416/416/kx25ksw0/kit/j/h/f/tummy-trimmer-toning-tube-for-stretching-toning-exercising-original-imag9hgg3a6va98c.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kwgpz0w0/resistance-tube/t/s/6/toning-tube-rubber-band-resistance-tube-adjustable-single-original-imag94x6zzgh3mjp.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kx25ksw0/kit/j/e/g/tummy-trimmer-toning-tube-for-stretching-toning-exercising-original-imag9hgggrxzwb55.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kihqz680-0/kit/v/b/b/tummy-trimmer-double-spring-combo-single-tube-resistance-band-original-imafy95fn48jr3gp.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":20,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/kit6hzk0-0/book/i/u/f/smart-card-application-development-using-java-original-imafyguy5rub9jyy.jpeg?q=70",
+        "title": "Smart Card Application Development Using Java  (English, Paperback, Hansmann Uwe)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 4499,
+        "product_imag":
+        [
+       "https://rukminim1.flixcart.com/image/416/416/kit6hzk0-0/book/i/u/f/smart-card-application-development-using-java-original-imafyguy5rub9jyy.jpeg?q=70",
+       "https://rukminim1.flixcart.com/image/416/416/jyj0how0/book/0/2/9/smart-card-application-development-using-java-original-imafgqeve8tzznz4.jpeg?q=70",
+       "https://rukminim1.flixcart.com/image/416/416/kit6hzk0-0/book/l/m/o/smart-card-application-development-using-java-original-imafyguygjmknrk5.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":21,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/kflftzk0pkrrdj-0/clock/d/4/n/957-gold-ajanta-original-imafwyq7mshzdfwr.jpeg?q=70",
+        "title": "AJANTA Analog 26.5 cm X 26.5 cm Wall Clock  (Gold, With Glass) ",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "mrp": 299,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/416/416/kflftzk0pkrrdj-0/clock/d/4/n/957-gold-ajanta-original-imafwyq7mshzdfwr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kflftzk0pkrrdj-0/clock/3/j/b/957-gold-ajanta-original-imafwyq7hegz5wsq.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kflftzk0pkrrdj-0/clock/1/b/w/957-gold-ajanta-original-imafwyq7jw4g79yr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kthjy4w0/wall-clock/y/8/8/round-wall-clock-957-gold-analog-ajanta-original-imag6tmnhgfzhzg8.jpeg?q=70"
+        ]
+    },
+    {
+        "products_id":22,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/jnex7680/jewellery-set/h/r/u/kundan-set-supershop-original-imafa3nrbve73q63.jpeg?q=50",
+        "title": "Alloy Gold-plated Jewel Set  (White, Gold)",
+        "average_rating": 4.0,
+        "rating_text": "Very Good",
+        "mrp": 399,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/800/960/jnex7680/jewellery-set/h/r/u/kundan-set-supershop-original-imafa3nrbve73q63.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/kjkbv680-0/jewellery-set/j/e/s/kundan-set-supershop-original-imafa3nrrhxgdnqt.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/jkmwdjk0/jewellery-set/h/r/u/kundan-set-supershop-original-imaf7vz22zgqtbsq.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":23,
+        "product_thumb": "https://rukminim1.flixcart.com/image/800/960/kkec4280/sunglass/i/l/p/small-medium-o-s-15-clear-occario-original-imafzr2uz6pjway8.jpeg?q=50",
+        "title": "Others Aviator Sunglasses (52)  (For Men & Women, Black, Clear)",
+        "average_rating": 3.7,
+        "rating_text": "Very Good",
+        "mrp": 199,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/800/960/kkec4280/sunglass/i/l/p/small-medium-o-s-15-clear-occario-original-imafzr2uz6pjway8.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/kkbh8cw0/sunglass/q/7/v/large-58-ap-sunglasses-19-amour-propre-original-imafzzshfwpbjrse.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/kkimfm80/sunglass/d/9/q/small-medium-o-c-50-occario-original-imafzudxdfstsa7v.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/800/960/kkec4280/sunglass/k/d/q/medium-medium-o-s-08-clear-occario-original-imafzr2fkghvphag.jpeg?q=50"
+        ]
+    },
+    {
+        "products_id":24,
+        "product_thumb": "https://rukminim1.flixcart.com/image/416/416/ksj9dow0/trimmer/7/u/x/0-5-20-mm-stainless-steel-nht-1057-digital-waterproof-corded-original-imag62pywh2zk2za.jpeg?q=70",
+        "title": "NOVA NHT 1057 Digital Waterproof Runtime: 90 min Trimmer for Men  (Black)",
+        "average_rating": 4,
+        "rating_text": "Very Good",
+        "mrp": 799,
+        "product_imag":
+        [
+      "https://rukminim1.flixcart.com/image/416/416/ksj9dow0/trimmer/7/u/x/0-5-20-mm-stainless-steel-nht-1057-digital-waterproof-corded-original-imag62pywh2zk2za.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/krtjgcw0/trimmer/o/z/f/0-5-20-mm-nht-1057-digital-waterproof-stainless-steel-corded-original-imag5gsbawvzywfr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/krtjgcw0/trimmer/t/e/i/0-5-20-mm-nht-1057-digital-waterproof-stainless-steel-corded-original-imag5gsbtsxcgr8x.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/krtjgcw0/trimmer/a/r/c/0-5-20-mm-nht-1057-digital-waterproof-stainless-steel-corded-original-imag5gsbsm9znypf.jpeg?q=70"
+        ]
+    }
+
+  ])

@@ -1,0 +1,71 @@
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* section1 start */
+#sectiond1 img
+{
+    width: 100%;
+}
+#sectiond1 .detail
+{
+    margin-top: 50px;
+}
+#sectiond1 .gallary
+{
+    margin: 10px 0px;
+}
+#sectiond1 .detail input
+{
+ margin: 20px 0px;
+ width: 80px;
+ padding-left: 8px;
+}
+#sectiond1 .detail a
+{
+text-decoration: none;
+margin-left: 20px;
+margin-top: 5px;
+padding: 8px 20px;
+border-radius: 15px;
+border: 1px solid #ff3300;
+color: #ff3300;
+}
+#sectiond1 .detail a:hover
+{
+    background-color: #ff3300;
+    color: white;
+}
+#sectiond1 .detail h3
+{
+    margin-top: 40px;
+}
+
+/* section2 start */
+#sectiond2
+{
+    margin: 90px 0px;
+}
+#sectiond2 img
+{
+    width: 100%;
+}
+#sectiond2 .rd
+{
+  display: flex;
+    justify-content: space-between;  
+}
+#sectiond2 .rd a
+{
+text-decoration: none;
+color: grey;
+}
+#sectiond2 .rd a:hover
+{
+text-decoration: underline;
+color: #ff3300;
+}

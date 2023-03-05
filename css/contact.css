@@ -1,0 +1,88 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+/* section1 start */
+#sectioncon1
+{
+background-image: url('../img/banner.png');
+height: 50vh;
+background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#sectioncon1 .text
+{
+   color: white;
+   text-align: center;
+}
+
+/* section2 start */
+#sectioncon2
+{
+    margin: 50px 0px;
+}
+#sectioncon2 .material-icons
+{
+    color: #ff3300;
+}
+
+
+/* section3 start */
+#sectioncon3
+{
+    padding: 50px 0px;
+}
+#sectioncon3 input
+{
+    margin-top: 10px;
+    padding: 8px 10px;
+    width: 90%;
+    outline: none;
+}
+#sectioncon3 textarea
+{
+    margin-top: 10px;
+    padding: 8px 10px;
+    width: 90%;
+    outline: none;
+    margin-bottom: 15px;
+}
+#sectioncon3 a
+{
+    text-decoration: none;
+    color: #ff3300;
+    padding: 5px 20px;
+    border-radius: 15px;
+    border: 1px solid #ff3300;
+}
+#sectioncon3 a:hover
+{
+background-color: #ff3300;
+color: white;
+}
+#sectioncon3 .udata
+{
+    line-height: 10px;
+    text-align: left;
+    padding-top: 10px;
+    margin-left: -40px;
+}
+#sectioncon3 .udata h6
+{
+    color: #ff3300;
+}
+#sectioncon3 img
+{
+    width: 50%;
+    margin-left: 47px;
+}
+#sectioncon3 .boxcon3
+{
+    border:1px solid white;
+    padding: 20px;
+    box-shadow: 1px 1px 10px 10px whitesmoke;
+}

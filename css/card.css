@@ -1,0 +1,100 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+/* section1 start */
+#sectionc1
+{
+background-image: url('../img/banner.png');
+height: 50vh;
+background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#sectionc1 .text
+{
+   color: white;
+   text-align: center;
+}
+
+/* section2 start */
+#sectionc2 .table 
+{
+    margin: 100px 0px;
+}
+#sectionc2 .cardata .table thead th 
+{
+    background-color: #ff3300;
+    color: white;
+    text-align: center;
+}
+#sectionc2 .cardata .table tbody td
+    {
+text-align: center;
+    }
+    #sectionc2 .cardata .table tbody td input
+    {
+width: 90px;
+padding-left: 10px;
+outline: none;
+    }
+#sectionc2 .cardata .table tbody td img
+{
+width: 20%;
+border-radius: 10px;
+}
+#sectionc2 .cardata .table tbody td .data
+{
+display: flex;
+justify-content: center;
+}
+#sectionc2 .cardata .table tbody td .data #pdata
+{
+margin-left: 10px;
+text-align: left;
+line-height: 4px;
+}
+
+ /* section3 start */
+ #sectionc3
+ {
+     margin: 50px 0px;
+ }
+ #sectionc3 input
+ {
+     width: 70%;
+     padding: 8px 10px;
+     outline: none;
+     border: 1px solid grey;
+     border-radius: 10px 0px 0px 10px;
+ }
+ #sectionc3 button
+ {
+    background-color: #ff3300;
+    color: white;
+    border: 1px solid  #ff3300;
+    padding: 8px 20px;
+    border-radius: 0px 10px 10px 0px;
+    margin-top: 10px;
+ }
+ #sectionc3 .boxc3
+ {
+     border:1px solid grey;
+     padding: 20px;
+ }
+ #sectionc3 .boxc3 a
+ {
+     text-decoration: none;
+     color: #ff3300;
+     border: 1px solid  #ff3300;
+     padding: 5px 20px;
+     border-radius: 10px;
+ }
+ #sectionc3 .boxc3 a:hover
+ {
+     background-color: #ff3300;
+     color: white;
+ }
